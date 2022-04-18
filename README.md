@@ -1,4 +1,4 @@
-This is the source code for Region-aware hierarchical latent feature representation learning guided clustering for hyperspectral band selection.
+This is the source code for Region-aware Hierarchical Latent Feature Representation Learning Guided Clustering for Hyperspectral Band Selection.
 
 The superpixel segmentation code can refer to <a href=https://github.com/junjun-jiang/RLPA>RLPA</a>.
 More datasets can be downloaded from <a href=https://pan.baidu.com/s/1Ktcn7khmtYpw_1ziMMuc0g>百度网盘</a>
