@@ -5,4 +5,4 @@ The superpixel segmentation code can refer to <a href=https://github.com/junjun-
 More datasets can be downloaded from <a href=https://pan.baidu.com/s/1Ktcn7khmtYpw_1ziMMuc0g>百度网盘</a>
 提取码：acmm
 
-If you have any question about the code, please send email to wang_jun@cug.edu.cn
+If you have any questions about the code, please send an email to wang_jun@nudt.edu.cn
