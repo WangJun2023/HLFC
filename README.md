@@ -1,4 +1,4 @@
-This is the source code for Region-aware Hierarchical Latent Feature Representation Learning Guided Clustering for Hyperspectral Band Selection, TCYB 2022.
+This is the source code for Region-aware Hierarchical Latent Feature Representation Learning Guided Clustering for Hyperspectral Band Selection, IEEE TCYB 2022.
 
 The superpixel segmentation code can refer to <a href=https://github.com/junjun-jiang/RLPA>RLPA</a>.
 
